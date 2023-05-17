@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kjm0826/kjm0826.github.io.git/static/css/main.abd64e84.css",
+    "main.js": "/kjm0826/kjm0826.github.io.git/static/js/main.97c99a37.js",
+    "index.html": "/kjm0826/kjm0826.github.io.git/index.html",
+    "main.abd64e84.css.map": "/kjm0826/kjm0826.github.io.git/static/css/main.abd64e84.css.map",
+    "main.97c99a37.js.map": "/kjm0826/kjm0826.github.io.git/static/js/main.97c99a37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.97c99a37.js"
+  ]
+}
